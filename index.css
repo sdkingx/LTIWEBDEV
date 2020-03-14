@@ -1,0 +1,61 @@
+body{
+background-image: url("bg.png");    
+}
+
+
+.section {
+    background-image: url("bg.png");
+    background-color: rgb(6, 253, 171);
+    width: 750px;
+    margin: auto;
+    box-shadow: 10px -10px rgba(0, 0, 0, 0.507), -10px 10px rgba(211, 211, 211, 0.507);
+    display: block;
+    padding: 1%;
+    margin-top: 5%;
+}
+
+
+.header {
+text-align: center;
+font-size: 100px;
+font-family: monospace;
+color: white;
+
+}
+
+.splitter {
+    border: 2.5px solid white;
+    width: 75%;
+
+
+}
+
+.headerarticle {
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+    color: white;
+    
+    }
+
+
+
+.article {
+padding: 5% ;
+background-image: url("bg.png");
+background-color: rgb(255, 255, 255);
+margin-left: 2.5%;
+margin-right: 2.5%;
+overflow: hidden;
+text-overflow: ellipsis;  
+}
+
+
+.articleimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%
+
+
+}
